@@ -1,0 +1,14 @@
+{
+  "name": "webcap",
+  "version": "1.0.0",
+  "main": "src/webcap.js",
+  "bin": "src/webcap.js",
+  "repository": "https://www.github.com/gimlids/webcap",
+  "author": "david.stolarsky@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "nightmare": "^3.0.0",
+    "vo": "^4.0.2",
+    "yargs": "^11.0.0"
+  }
+}

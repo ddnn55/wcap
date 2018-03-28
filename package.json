@@ -1,6 +1,6 @@
 {
   "name": "webcap",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "src/webcap.js",
   "bin": "src/webcap.js",
   "repository": "https://www.github.com/gimlids/webcap",

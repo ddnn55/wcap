@@ -1,9 +1,9 @@
 {
-  "name": "webcap",
+  "name": "wcap",
   "version": "1.0.1",
-  "main": "src/webcap.js",
-  "bin": "src/webcap.js",
-  "repository": "https://www.github.com/gimlids/webcap",
+  "main": "src/wcap.js",
+  "bin": "src/wcap.js",
+  "repository": "https://www.github.com/gimlids/wcap",
   "author": "david.stolarsky@gmail.com",
   "license": "MIT",
   "dependencies": {
